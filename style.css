@@ -1,0 +1,54 @@
+body{
+    background-color: aqua;
+}
+
+#header{
+    background-color: burlywood;
+    height: 300px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#first{
+    color: brown;
+    size: 50px;
+}
+
+#container{
+    background-color: chartreuse;
+    display: flex;
+    height: 300px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.timebox{
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    color: antiquewhite;
+}
+
+#second{
+    color: red;
+    size: 50px;
+    
+}
+
+input{
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border-color: black;
+    margin: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+label{
+    font-size: 50px;
+    color: deeppink;
+}
